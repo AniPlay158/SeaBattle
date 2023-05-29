@@ -1,0 +1,23 @@
+﻿  Source.cpp
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(17,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(17,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(205,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(226,4): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(228,3): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(235,2): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(243,2): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(248,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(253,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(261,5): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(266,5): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(273,6): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(277,6): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(284,6): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(288,5): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(293,5): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(304,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(315,4): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(328,3): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(329,3): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Header.h(342,3): error C2065: 'cout': undeclared identifier
+D:\ШАГ\вижуал\Морской бой\Морской бой\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
